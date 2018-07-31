@@ -1,11 +1,12 @@
 A custom google maps component based on the ui-custom-component repo here: https://github.com/manywho/ui-custom-component
-
+Credits to Matt Norton, and Jonjo McKay for the component. Matt Bates, and the Boomi Flow dev team in Exeter UK for the custom component module.
 
 
 
 
 
 ***Detail from the ui-custom component repo below here***
+
 A small `webpack` based boilerplate for creating custom Boomi Flow UI components.
 
 ## Setup
