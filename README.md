@@ -1,3 +1,10 @@
+A custom google maps component
+
+
+
+
+
+
 A small `webpack` based boilerplate for creating custom Boomi Flow UI components.
 
 ## Setup
